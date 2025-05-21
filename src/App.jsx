@@ -10,12 +10,14 @@ function App() {
  
    <BrowserRouter>
       <NavigationBar /> 
+     <div className="main-content">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
        
         <Route path="*" element={<NotFound />} />
       </Routes>
+    </div>
     </BrowserRouter>
 
   )
