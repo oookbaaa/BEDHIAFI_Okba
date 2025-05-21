@@ -1,0 +1,22 @@
+[
+    {
+    "id": 1,
+    "author": "Jack Smith",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+    "id": 2,
+    "author": " Jack Smith",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing eli"
+    },
+    {
+    "id": 3,
+    "author": "Alex Kim",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing eli"
+    },
+    {
+    "id": 4,
+    "author": "David Lee",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing eli"
+    }
+    ]
